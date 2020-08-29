@@ -13,7 +13,7 @@ Thanks for reading, and if you want talk with me:
   </li>
   <li>
     <img src="https://img2.gratispng.com/20180324/sbe/kisspng-google-logo-g-suite-google-5ab6f1f0dbc9b7.1299911115219389289003.jpg" width="16" alt="Linkedin"> 
-    <a href="mailto:bzsflavio@gmail.com" target="_blank" title="My LinkedIn">bzsflavio@gmail.com</a>
+    <a href="mailto:bzsflavio@gmail.com" target="_blank" title="Email">bzsflavio@gmail.com</a>
   </li>
   <li>
     <img src="https://user-images.githubusercontent.com/3603793/87077942-4b727b00-c1fa-11ea-890c-c1249a500a57.png" width="16" alt="Twitter"> 
