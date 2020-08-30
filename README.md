@@ -1,7 +1,7 @@
 ## Heeey 👋
 
-I'm Flávio 🇧🇷, a Full-Stack developer and Civil engineer <br/>
-Here you can see some my projects and some technologies (Typescript, Javascript, React, Gatsby, Graphql, Docker, Laravel, etc...) that I've knowledge
+I'm Flávio 🇧🇷, a Full-Stack developer <br/>
+Here you can see some my projects and some technologies (Typescript, Javascript, React, ReactNative, Gatsby, Graphql, Docker, Laravel, etc...) that I've knowledge
 
 Thanks for reading, and if you want talk with me:
 
