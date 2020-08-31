@@ -1,6 +1,6 @@
 ## Heeey 👋
 
-I'm Flávio 🇧🇷, a Full-Stack softwarer developer <br/>
+I'm Flávio 🇧🇷, a Full-Stack softwarer developer, a fast learner and always excited for knowledge, quality and elegant solutions for any problem. <br/>
 Here you can see some my projects and some technologies (Typescript, Javascript, React, ReactNative, Gatsby, Graphql, Docker, Laravel, etc...) that I've knowledge
 
 Thanks for reading, and if you want to talk with me:
